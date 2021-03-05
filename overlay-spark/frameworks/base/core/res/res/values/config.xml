@@ -24,6 +24,9 @@
     <!-- If not zero, limits the internal screen recorder's framerate to the set value. -->
     <integer name="config_screenRecorderMaxFramerate">120</integer>
 
+    <!-- Pocket Lock -->
+    <bool name="config_pocketUseLightSensor">false</bool>
+
     <!-- Defines the actions shown in advanced reboot submenu -->
     <string-array name="config_restartActionsList">
         <item>restart</item>
