@@ -152,7 +152,6 @@ vendor/lib64/com.qualcomm.mcx.policy.mfl.so|86f5da4f7ead78d8d338b67644fdcbb2e078
 vendor/lib64/com.qualcomm.qti.mcx.usecase.extension.so|6bc151ec8b8968e427dad56c3362630e71c47f7b
 vendor/lib64/libBlinkStub.so|e905ca9db0601c35a9d57831eafaff1824c3686a
 vendor/lib64/libI420colorconvert.so|fee26376079bee2fa8512d00ced3304e32ec2225
-vendor/lib64/libMegviiFacepp-0.5.2.so|a439145c3700d62446af21fe385775e6d5cb1a9a
 vendor/lib64/libSNPE.so|412a0bd22fbf2c05d1b5e47370559a74a3a16135
 vendor/lib64/libaidenoiser.so|0f3e2521074f42913ba1503ec08bcc735f0be262
 vendor/lib64/libalAILDC.so|0bfa1f886d61cb837c71f323b2932f4fb7bf5001
@@ -179,7 +178,6 @@ vendor/lib64/libhexagon_controller.so|b416b222037dac79b46fd9d29006f9f58aa7644c
 vendor/lib64/libhdrdynamic.so|94af63e1d3b01d8c81dde358e138a0d82dcdc475
 vendor/lib64/libhdrdynamicootf.so|25f49c8fea997d1500f41faf2ad6f679f9c9cb1c
 vendor/lib64/libipebpsstriping.so|dd91e48c0f9f497b1f95306d795fc40f39a772fd
-vendor/lib64/libmegface.so|8f67d986f23a110e48a2c6c57024ac3dee4993aa
 vendor/lib64/libmiai_portraitsupernight.so|f795f897257d11c8306bd750115bfcb2d4f832d9
 vendor/lib64/libmialgo_ie_capture.so|bd227b7de08bd6415be75021be38b4734b7551f7
 vendor/lib64/libmialgo_ie_preview.so|689f9cba4d8948a2a3da5c0b0a547eb63f4179dc
@@ -384,7 +382,6 @@ vendor/etc/camera/com.xiaomi.dcal.wu.golden|201edcf38173c3bca1d9c58096089946204a
 vendor/etc/camera/deblur_txt_gpu.dlc|7de70e3e2aca1f3c77472110e45b773ca86d6135
 vendor/etc/camera/det_quantize.dlc|27c1f24f7dec81d9713d47faad65f9daf2203828
 vendor/etc/camera/eisoverridesettings.txt|67ed2a48d18c1711f5e3e902d41a53b3a88f1625
-vendor/etc/camera/megviifacepp_0_5_2_model|a2b8751f04d94f0634453c40426e66b0a1283da1
 vendor/etc/camera/mibokeh_855_opencl.bin|8deb0bd9f774d2cfe34f50bf5f87fb26858820c5
 vendor/etc/camera/mibokeh_855_parameter.bin|69b4f07b38f267bf667d2f527e1f4f82655d1183
 vendor/etc/camera/model_ai_dxo.dlc|014443d69f0a744b8d4e53b4412b73b5bd034a05
