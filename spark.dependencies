@@ -1,0 +1,38 @@
+[
+    {
+        "remote": "devices",
+        "repository": "android_device_xiaomi_venus",
+        "target_path": "device/xiaomi/venus",
+        "branch": "pyro"
+    },
+    {
+        "remote": "devices",
+        "repository": "android_device_xiaomi_sm8350-common",
+        "target_path": "device/xiaomi/sm8350-common",
+        "branch": "pyro"
+    },
+    {
+        "remote": "devices",
+        "repository": "android_vendor_xiaomi_venus",
+        "target_path": "vendor/xiaomi/venus",
+        "branch": "pyro"
+    },
+    {
+        "remote": "devices",
+        "repository": "android_vendor_xiaomi_sm8350-common",
+        "target_path": "vendor/xiaomi/sm8350-common",
+        "branch": "pyro"
+    },
+    {
+        "remote": "devices",
+        "repository": "android_kernel_xiaomi_venus",
+        "target_path": "kernel/xiaomi/venus",
+        "branch": "pyro"
+    },
+    {
+        "remote": "devices",
+        "repository": "device_qcom_sepolicy_vndr-legacy-um",
+        "target_path": "device/qcom/sepolicy_vndr-legacy-um",
+        "branch": "pyro"
+    }
+]
