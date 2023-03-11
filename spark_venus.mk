@@ -16,6 +16,8 @@ $(call inherit-product, vendor/spark/config/common_full_phone.mk)
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_USES_AOSP_RECOVERY := true
 
+TARGET_NO_PREBUILT_CAMERA := true
+
 # UDFPS Animations
 EXTRA_UDFPS_ANIMATIONS := true
 
